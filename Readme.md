@@ -9,4 +9,9 @@
 # Moringa school
 Moringa School is a multi-disciplinary learning accelerator which provides young Africans with digital and professional skills training in Kenya and Rwanda.
 Moringa School’s mission is to transform higher education throughout Africa
-and enable its graduates to be globally competitive with their peers. 
+and enable its graduates to be globally competitive with their peers.
+
+![image](moringa dsp.png)   
+*an image of moringa school*
+
+
