@@ -14,4 +14,13 @@ and enable its graduates to be globally competitive with their peers.
 ![image](moringa dsp.png)   
 *an image of moringa school*
 
+# Moringa School Access Program
+The Access Program is a scholarship program for youth from needy backgrounds. The program aims to make Moringa’s world-class education available to ambitious young people who could not afford it otherwise.
 
+|Moringa Pre-Prep|Moringa Prep|Moringa Core
+|---|---|----|
+HTML|GITHUB|WEB DEVELOPMENT
+CSS|COMMAND LINE|MOBILE DEVELOPEMENT|
+JAVASCRIPT|MARCKDOWN| |
+
+CREDITS:shaviya and silver
